@@ -1,0 +1,21 @@
+.container {
+
+}
+
+.inputBox{
+    margin: 10px;
+    margin-top: 27px;
+    background-color: white;
+}
+
+.button {
+    margin-left: 10px;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+
+*{
+    background: slategray;
+}
